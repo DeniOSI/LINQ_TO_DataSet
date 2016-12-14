@@ -1,0 +1,6 @@
+c:\users\администратор\documents\visual studio 2017\Projects\Linq_TO_DataSet\Linq_TO_DataSet\bin\Debug\Linq_TO_DataSet.exe.config
+c:\users\администратор\documents\visual studio 2017\Projects\Linq_TO_DataSet\Linq_TO_DataSet\bin\Debug\Linq_TO_DataSet.exe
+c:\users\администратор\documents\visual studio 2017\Projects\Linq_TO_DataSet\Linq_TO_DataSet\bin\Debug\Linq_TO_DataSet.pdb
+c:\users\администратор\documents\visual studio 2017\Projects\Linq_TO_DataSet\Linq_TO_DataSet\obj\Debug\Linq_TO_DataSet.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2017\Projects\Linq_TO_DataSet\Linq_TO_DataSet\obj\Debug\Linq_TO_DataSet.exe
+c:\users\администратор\documents\visual studio 2017\Projects\Linq_TO_DataSet\Linq_TO_DataSet\obj\Debug\Linq_TO_DataSet.pdb
